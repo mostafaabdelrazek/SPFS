@@ -8,6 +8,6 @@ define('DB_NAME' , '_YOUR_DBNAME_');
 // App root
 define('APPROOT' ,  dirname(dirname(__FILE__)));
 //url root
-define('URLROOT' , '_YOUR_URL_');
+define('URLROOT' , 'https://127.0.0.1/SPFS');
 //Site name
-define('SITENAME' , '_YOUR_APPNAME_');
+define('SITENAME' , 'SPFS');
